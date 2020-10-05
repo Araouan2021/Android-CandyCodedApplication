@@ -11,7 +11,14 @@
   <component name="ChangeListManager">
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -30,6 +37,13 @@
         <projects_view />
       </state>
     </system>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Class" />
+      </list>
+    </option>
   </component>
   <component name="FindInProjectRecents">
     <findStrings>
@@ -60,7 +74,11 @@
     <property name="ASKED_SHARE_PROJECT_CONFIGURATION_FILES" value="true" />
     <property name="DeviceAndSnapshotComboBoxAction.selectedDevice" value="Pixel_3_XL_API_29" />
     <property name="DeviceAndSnapshotComboBoxAction.selectionTime" value="2019-10-31T14:03:56.773Z" />
+    <property name="last_directory_selection" value="$PROJECT_DIR$/app/src/main/java" />
     <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+    <property name="project.structure.last.edited" value="Dependencies" />
+    <property name="project.structure.proportion" value="0.17" />
+    <property name="project.structure.side.proportion" value="0.2" />
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
@@ -176,29 +194,49 @@
     <servers />
   </component>
   <component name="WindowStateProjectService">
+    <state x="243" y="178" key="#PSD" timestamp="1601312953349">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="243" y="178" key="#PSD/0.23.1440.832@0.23.1440.832" timestamp="1601312953349" />
     <state x="531" y="154" key="#com.intellij.ide.util.MemberChooser" timestamp="1601154251452">
       <screen x="0" y="23" width="1440" height="828" />
     </state>
     <state x="531" y="154" key="#com.intellij.ide.util.MemberChooser/0.23.1440.828@0.23.1440.828" timestamp="1601154251452" />
-    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1601223479118">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state x="428" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1" timestamp="1601312924126">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="428" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1601312924126" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1601329406631">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
     <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601221343204" />
-    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1601223479118">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1601329406631" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1601329406630">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
     <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1601221343203" />
-    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1601223479117">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1601329406630" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1601329406630">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1601223479117" />
     <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1601221343202" />
-    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1601223479118">
-      <screen x="0" y="23" width="1440" height="827" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1601329406630" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1601329406631">
+      <screen x="0" y="23" width="1440" height="833" />
     </state>
     <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
     <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1601221343204" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1601329406631" />
+    <state x="227" y="78" key="SettingsEditor" timestamp="1601314019388">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="227" y="78" key="SettingsEditor/0.23.1440.832@0.23.1440.832" timestamp="1601314019388" />
+    <state x="513" y="224" key="chooseDestDirectoryDialog" timestamp="1601883110569">
+      <screen x="0" y="23" width="1440" height="832" />
+    </state>
+    <state x="513" y="224" key="chooseDestDirectoryDialog/0.23.1440.832@0.23.1440.832" timestamp="1601883110569" />
   </component>
 </project>
