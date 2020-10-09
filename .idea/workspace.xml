@@ -12,13 +12,11 @@
     <list default="true" id="0b7633b6-91c2-4d9c-80c2-5897a3f35d39" name="Default Changelist" comment="">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/app/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/AndroidManifest.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/DetailActivity.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/InfoActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/MainActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/main/java/com/pluralsight/candycoded/SettingsActivity.java" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/build.gradle" beforeDir="false" afterPath="$PROJECT_DIR$/build.gradle" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" beforeDir="false" afterPath="$PROJECT_DIR$/gradle/wrapper/gradle-wrapper.properties" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_2_StartTheGoogleMapsActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_3_StartThePhoneActivity.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" beforeDir="false" afterPath="$PROJECT_DIR$/app/src/test/java/com/pluralsight/candycoded/_4_ShareACandyWithAnIntent.java" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -82,6 +80,11 @@
     <property name="show.do.not.ask.upgrade.gradle.plugin" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.plugin.version" value="3.5.1" />
     <property name="show.do.not.ask.upgrade.gradle.version" value="5.4.1" />
+  </component>
+  <component name="RecentsManager">
+    <key name="ExtractSuperBase.RECENT_KEYS">
+      <recent name="com.pluralsight.candycoded" />
+    </key>
   </component>
   <component name="RunManager" selected="Android JUnit.com.pluralsight.candycoded in app">
     <configuration name="_1_StartTheStoreInformationActivity" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
@@ -206,30 +209,38 @@
       <screen x="0" y="23" width="1440" height="832" />
     </state>
     <state x="428" y="290" key="ANALYSIS_DLG_com.intellij.analysis.BaseAnalysisAction$1/0.23.1440.832@0.23.1440.832" timestamp="1601312924126" />
-    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1601329406631">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom" timestamp="1602267652514">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.827@0.23.1440.827" timestamp="1602267652514" />
     <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.828@0.23.1440.828" timestamp="1601221343204" />
-    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1601329406631" />
-    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1601329406630">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.829@0.23.1440.829" timestamp="1602100022282" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.832@0.23.1440.832" timestamp="1602155689318" />
+    <state width="1358" height="203" key="GridCell.Tab.0.bottom/0.23.1440.833@0.23.1440.833" timestamp="1602169964645" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center" timestamp="1602267652513">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.827@0.23.1440.827" timestamp="1602267652513" />
     <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.828@0.23.1440.828" timestamp="1601221343203" />
-    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1601329406630" />
-    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1601329406630">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.829@0.23.1440.829" timestamp="1602100022281" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.832@0.23.1440.832" timestamp="1602155689317" />
+    <state width="1358" height="203" key="GridCell.Tab.0.center/0.23.1440.833@0.23.1440.833" timestamp="1602169964644" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left" timestamp="1602267652513">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1601223479117" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.827@0.23.1440.827" timestamp="1602267652513" />
     <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.828@0.23.1440.828" timestamp="1601221343202" />
-    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1601329406630" />
-    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1601329406631">
-      <screen x="0" y="23" width="1440" height="833" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.829@0.23.1440.829" timestamp="1602100022280" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.832@0.23.1440.832" timestamp="1602155689317" />
+    <state width="1358" height="203" key="GridCell.Tab.0.left/0.23.1440.833@0.23.1440.833" timestamp="1602169964644" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right" timestamp="1602267652513">
+      <screen x="0" y="23" width="1440" height="827" />
     </state>
-    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1601223479118" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.827@0.23.1440.827" timestamp="1602267652513" />
     <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.828@0.23.1440.828" timestamp="1601221343204" />
-    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1601329406631" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.829@0.23.1440.829" timestamp="1602100022281" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.832@0.23.1440.832" timestamp="1602155689317" />
+    <state width="1358" height="203" key="GridCell.Tab.0.right/0.23.1440.833@0.23.1440.833" timestamp="1602169964644" />
     <state x="227" y="78" key="SettingsEditor" timestamp="1601314019388">
       <screen x="0" y="23" width="1440" height="832" />
     </state>
